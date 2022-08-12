@@ -10,8 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rlaehdgns961129.github.io'
-baseurl:          ''
-rss:              RSS
+baseurl:          ""
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
